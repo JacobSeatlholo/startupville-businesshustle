@@ -59,7 +59,7 @@
             {
               "name": "The Topic for the day: Identifying Your Strengths in the Marketplace ",
               "location": "",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "Join us for the day as we unpack the above topic. Whether you're a creative, author, designers and/or entrepreneur developing a structure or a plan of action for your business can be a daunting and expensive task. Let us help you run and grow your business efficiently by effectively networking within a likeminded community",
               "speakerNames": ["Ted Turtle"],
               "timeStart": "",
               "timeEnd": "",
@@ -67,12 +67,12 @@
               "id": "19"
             },
            {
-              "name": "List of Questions",
+              "name": "List of Questions - Q&A Session",
               "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "description": "The following questions will be presented to the panelists during the panel discussion session. (a)How do you identify a skill that you can bank on? (b) How do you measure rediness or competence in your abilities? (c) How does one constantly improve and learn from the change that comes with improving?",
               "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "3:30 pm",
-              "timeEnd": "3:45 pm",
+              "timeStart": "19:15 pm",
+              "timeEnd": "19:30 pm",
               "tracks": ["Navigation"],
               "id": "20"
             } 
