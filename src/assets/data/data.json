@@ -54,7 +54,7 @@
       
   
         {
-          "time": "3:00",
+          "time": "",
           "sessions": [
             {
               "name": "Angular Directives in Ionic",
