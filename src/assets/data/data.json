@@ -82,7 +82,7 @@
               "timeStart": "10:00 am",
               "timeEnd": "10:15 am",
               "tracks": ["Ionic"],
-              "id": "5"
+              "id": "5" 
             },
             {
               "name": "What's New in Angular",
