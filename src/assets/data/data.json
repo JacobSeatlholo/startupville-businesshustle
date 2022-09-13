@@ -40,12 +40,12 @@
               "id": "3"
             },
             {
-              "name": "University of Ionic",
-              "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "name": "Elevator Pitch Session",
+              "location": "Office 8, 129 Bree Street",
+              "description": "The idea of an elevator pitch is to intrigue your listener and create interest, whenever you answer the common 'What do you do? question. This part of the event is a wonderful opportunity to practice your 60 seconds elevator pitch while having fun with like minded attendees.",
               "speakerNames": ["Ellie Elephant"],
-              "timeStart": "9:15 am",
-              "timeEnd": "9:30 am",
+              "timeStart": "19:30 pm",
+              "timeEnd": "20:00 pm",
               "tracks": ["Ionic"],
               "id": "4"
             }
