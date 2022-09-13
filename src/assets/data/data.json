@@ -63,17 +63,17 @@
               "speakerNames": ["Ted Turtle"],
               "timeStart": "",
               "timeEnd": "",
-              "tracks": ["Angular"],
+              "tracks": [""],
               "id": "19"
             },
            {
               "name": "List of Questions - Q&A Session",
-              "location": "Hall 2",
+              "location": "",
               "description": "The following questions will be presented to the panelists during the panel discussion session. (a)How do you identify a skill that you can bank on? (b) How do you measure rediness or competence in your abilities? (c) How does one constantly improve and learn from the change that comes with improving?",
               "speakerNames": ["Rachel Rabbit"],
               "timeStart": "19:15 pm",
               "timeEnd": "19:30 pm",
-              "tracks": ["Navigation"],
+              "tracks": [""],
               "id": "20"
             } 
            
