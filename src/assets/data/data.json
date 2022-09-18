@@ -7,7 +7,7 @@
           "time": "18:00 pm",
           "sessions": [
             {
-              "name": "Event Start",
+              "name": "Startupville + Panelists Introduction",
               "timeStart": "18:00 pm",
               "timeEnd": "20:00 pm",
               "location": "129 Bree Street. Cape Town",
@@ -20,7 +20,7 @@
           "time": "18:15 am",
           "sessions": [
             {
-              "name": "Business Presentation",
+              "name": "Questions and answers",
               "location": "Office 8, 129 Bree Street",
               "description": "The importance of internal communication within organisations is very misunderstood. Too much irrelevant content often results in information silos. Meaning, information that is actually important to an employee can easily get lost. Startups are the olympics of entrepreneurship and thus we would like to introduce you to Unlimited tools and resources suited to meet any of your business/startup needs.",
               "speakerNames": ["Ted Turtle"],
