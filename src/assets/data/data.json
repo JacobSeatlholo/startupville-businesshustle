@@ -85,15 +85,15 @@
   
   "speakers": [
     {
-      "name": "Burt Bear",
+      "name": "Vuyiswa Mataka",
       "profilePic": "/assets/img/speakers/bear.jpg",
-      "instagram": "ionicframework",
-      "twitter": "ionicframework",
-      "about": "Burt is a Bear. Burt's interests include poetry, dashing space heroes, and lions.",
-      "title": "Software Engineer",
-      "location": "Everywhere",
-      "email": "burt@example.com",
-      "phone": "+1-541-754-3010",
+      "instagram": "HustleBusiness",
+      "twitter": "HustleBusiness",
+      "about": "Vuyiswa holds a BCom from the University of Pretoria & has successfully placed tech talent like Development Managers, Software Engineers (C#.Net, Java, ReactJs) and many more throughout my 5 year career. ",
+      "title": "Technical consultant",
+      "location": "Cape Town",
+      "email": "vuyiswa.mataka@xcede.com",
+      "phone": "+27-541-754-3010",
       "id": "1"
     },
     {
