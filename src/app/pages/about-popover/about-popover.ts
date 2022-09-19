@@ -5,11 +5,11 @@ import { PopoverController } from '@ionic/angular';
 @Component({
   template: `
     <ion-list>
-      <ion-item button (click)="close('https://ionicframework.com/getting-started')">
-        <ion-label>Learn Ionic</ion-label>
+      <ion-item button (click)="close('https://www.businesshustle.co.za/')">
+        <ion-label>Business Hustle© Resources</ion-label>
       </ion-item>
-      <ion-item button (click)="close('https://ionicframework.com/docs/')">
-        <ion-label>Documentation</ion-label>
+      <ion-item button (click)="close('https://form.typeform.com/to/P9SUUwHI?typeform-source=neighbourgood.co.za/')">
+        <ion-label>Join the Neighbourgood community</ion-label>
       </ion-item>
       <ion-item button (click)="close('https://showcase.ionicframework.com')">
         <ion-label>Showcase</ion-label>
