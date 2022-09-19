@@ -20,12 +20,12 @@
           "time": "18:15 am",
           "sessions": [
             {
-              "name": "Questions and answers",
+              "name": "Panel discussion + Q&A",
               "location": "Office 8, 129 Bree Street",
               "description": "The importance of internal communication within organisations is very misunderstood. Too much irrelevant content often results in information silos. Meaning, information that is actually important to an employee can easily get lost. Startups are the olympics of entrepreneurship and thus we would like to introduce you to Unlimited tools and resources suited to meet any of your business/startup needs.",
               "speakerNames": ["Ted Turtle"],
               "timeStart": "18:15 pm",
-              "timeEnd": "18:30 pm",
+              "timeEnd": "19:00 pm",
               "tracks": ["Business Hustle© Presentation & Introduction of panelists "],
               "id": "2"
             },
