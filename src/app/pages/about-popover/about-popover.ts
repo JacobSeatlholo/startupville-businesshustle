@@ -6,15 +6,15 @@ import { PopoverController } from '@ionic/angular';
   template: `
     <ion-list>
       <ion-item button (click)="close('https://www.businesshustle.co.za/')">
-        <ion-label>Business Hustle© Resources</ion-label>
+        <ion-label>Resources</ion-label>
       </ion-item>
       <ion-item button (click)="close('https://form.typeform.com/to/P9SUUwHI?typeform-source=neighbourgood.co.za/')">
-        <ion-label>Join the Neighbourgood community</ion-label>
+        <ion-label>Join the community</ion-label>
       </ion-item>
-      <ion-item button (click)="close('https://showcase.ionicframework.com')">
+      <ion-item button (click)="close('https://bit.ly/business-hustle')">
         <ion-label>Showcase</ion-label>
       </ion-item>
-      <ion-item button (click)="close('https://github.com/ionic-team/ionic')">
+      <ion-item button (click)="close('https://github.com/JacobSeatlholo/startupville-businesshustle')">
         <ion-label>GitHub Repo</ion-label>
       </ion-item>
       <ion-item button (click)="support()">
