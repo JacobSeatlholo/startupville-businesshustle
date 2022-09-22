@@ -10,7 +10,7 @@
               "name": "Startupville + Panelists Introduction",
               "timeStart": "18:00 pm",
               "timeEnd": "18:15 pm",
-              "location": "129 Bree Street. Cape Town",
+              "location": "27 Somerset Rd, De Waterkant. Cape Town",
               "tracks": ["Introductory session"],
               "id": "1" 
             }
@@ -21,7 +21,7 @@
           "sessions": [
             {
               "name": "Panel discussion + Q&A",
-              "location": "Office 8, 129 Bree Street",
+              "location": "27 Somerset Rd, De Waterkant",
               "description": "The importance of internal communication within organisations is very misunderstood. Too much irrelevant content often results in information silos. Meaning, information that is actually important to an employee can easily get lost. Startups are the olympics of entrepreneurship and thus we would like to introduce you to Unlimited tools and resources suited to meet any of your business/startup needs.",
               "speakerNames": ["Ted Turtle"],
               "timeStart": "18:15 pm",
@@ -31,7 +31,7 @@
             },
             {
               "name": "Networking + Elevator Pitch Session",
-              "location": "Office 8, 129 Bree Street",
+              "location": "27 Somerset Rd, De Waterkant",
               "description": "we aim to create a safe environment for entrepreneurs, authors, creatives, digital nomads, etc to sit together and have non intrusive conversations about entrepreneurship, the world of business and open-source resources accessible to/for particular industries online. ",
               "speakerNames": ["Panel"],
               "timeStart": "19:00 pm",
@@ -41,7 +41,7 @@
             },
             {
               "name": "Session Break",
-              "location": "Office 8, 129 Bree Street",
+              "location": "27 Somerset Rd, De Waterkant",
               "description": "The idea of an elevator pitch is to intrigue your listener and create interest, whenever you answer the common 'What do you do? question. This part of the event is a wonderful opportunity to practice your 60 seconds elevator pitch while having fun with like minded attendees.",
               "speakerNames": ["Ellie Elephant"],
               "timeStart": "19:25 pm",
